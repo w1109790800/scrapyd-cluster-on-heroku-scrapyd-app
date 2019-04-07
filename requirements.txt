@@ -5,6 +5,5 @@ scrapy-redis
 logparser==0.8.1
 requests
 fake_useragent
-ConfigParser
 selenium
-MySQL-python
+
