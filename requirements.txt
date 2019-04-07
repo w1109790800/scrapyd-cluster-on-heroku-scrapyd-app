@@ -4,3 +4,5 @@ scrapyd
 scrapy-redis
 logparser==0.8.1
 requests
+fake_useragent
+selenium
